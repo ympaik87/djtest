@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/Users/ymp/.pyenv/versions/djtest/bin/python"
+}
